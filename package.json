@@ -11,6 +11,6 @@
   "author": "Ivan Zhelyazkov",
   "license": "MIT",
   "dependencies": {
-    "web3": "^1.0.0-beta.52"
+    "web3": "^1.2.1"
   }
 }
